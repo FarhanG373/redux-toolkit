@@ -8,7 +8,6 @@ import { NavBar } from "./Components/NavBar";
 function App() {
   return (
     <div className="App">
-      https://www.youtube.com/watch?v=A_vRvDAZuOo------------------1hr:00Min
       <NavBar/>
       <Routes>
         <Route path="/" element={<Dashboard />} />
